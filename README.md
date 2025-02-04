@@ -25,6 +25,7 @@ CSS for styling
 Clone the repository:
 
 git clone https://github.com/prad30/Weather-App-Svelte.git
+
 cd Weather-App-Svelte
 
 Install dependencies:
